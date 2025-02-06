@@ -1,2 +1,2 @@
-#!/bin/bash
+iii#!/bin/bash
 chmod --reference=olleh hello
